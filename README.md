@@ -2,12 +2,12 @@
 
 ## Description
 The Number Classification API takes a number as input and returns:
-✔ Whether it is prime
-✔ Whether it is perfect
-✔ Whether it is an Armstrong number (only for positive numbers)
-✔ Whether it is odd or even
-✔ The sum of its digits
-✔ A fun fact about the number from the Numbers API
+-Whether it is prime
+-Whether it is perfect
+-Whether it is an Armstrong number (only for positive numbers)
+-Whether it is odd or even
+-The sum of its digits
+-A fun fact about the number from the Numbers API
 
 This API is built using Laravel and follows RESTful principles, returning responses in JSON format.
 
