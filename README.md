@@ -14,26 +14,6 @@ This API is built using Laravel and follows RESTful principles, returning respon
 ## API Endpoint
 - `GET /api/classify-number?number={number}`
 
-## Project Structure
-hngstage1/
-│── app/
-│   ├── Http/
-│   │   ├── Controllers/
-│   │   │   ├── ClassifyNumberController.php  # API logic
-│── bootstrap/
-│── config/
-│── database/
-│── public/
-│── resources/
-│── routes/
-│   ├── api.php  # Defines API routes
-│── storage/
-│── tests/
-│── .env.example  # Environment configuration
-│── composer.json  # Laravel dependencies
-│── README.md  # Project documentation
-
-
 ## api documentation
 
 ### request sample
